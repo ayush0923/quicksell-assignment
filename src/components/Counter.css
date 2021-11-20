@@ -1,0 +1,46 @@
+/*Css for counter component */
+input{
+    height:56px; width: 60px;
+    color: #B24242;
+    font-size: x-large; position: relative;
+    text-align: center; text-decoration: none; outline: none;
+    background-color: #FBE8E8;
+    border:0; border-left: 2px solid #B24242; margin:0;
+    vertical-align: baseline;
+    user-select: none;
+    -webkit-user-select: none; touch-action: manipulation;
+  }
+  input::-webkit-outer-spin-button,input::-webkit-inner-spin-button 
+  {
+    -webkit-appearance: none; margin: 0;
+  }
+  /*Css that is common for + and - button */
+.common{
+  font-family: "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  display: inline-block; touch-action: manipulation;
+  list-style: none; outline: none; box-sizing: border-box; cursor: pointer;
+  user-select: none; 
+  -webkit-user-select: none;
+  }
+  /*Css for - Button */
+.neg{
+    height: 56px; width: 60px; line-height: 20px;
+    background-color: white;
+    border-top-left-radius: 8px; border-bottom-left-radius: 8px; border-style: none;
+    color: #B24242;
+    margin:0; position: relative;
+    text-align: center; text-decoration: none;
+     font-size: x-large; font-weight: 500; transition: color 100ms;
+    vertical-align: baseline;
+  }
+  /*Css for + button */
+  .pos{
+    background-color: #B24242;
+    height:59px; width:61px; line-height:20px; 
+    border-right: 1px solid #B24242; border-bottom-right-radius:8px; border-style: none;  border-top-right-radius: 8px;
+    color: #FFFFFF;
+    font-weight: 500; margin: 0;  font-size: x-large; position: relative;
+    text-align: center; text-decoration: none;
+    transition: color 100ms; vertical-align: baseline;
+  }
+  

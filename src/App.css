@@ -1,0 +1,27 @@
+/*This is the styling of Maindiv component */
+.maindiv{
+    display: flex; align-items: center; justify-content: center;
+}
+/*This is styling of First Div*/
+.firstdiv{
+    display: grid; align-items: center; justify-content: center;
+    background-color: white;
+    border-radius: 6px;
+    box-shadow: 1px 1px 1px 1px rgb(139, 139, 139);
+    width: 340px; height: 190px;
+    margin-top: 190px;
+}
+/*Css for Box component */
+.pack{
+  border: 2px solid #B24242;
+  border-right: 1px solid #B24242;
+  border-radius: 8px;
+}
+.lt{
+  margin-top: -9px;
+}
+.ut{
+  display: flex;
+  margin-bottom: -20px;
+  height: 42px;
+}
