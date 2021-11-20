@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/quicksell-assignment/static/css/main.0929a311.chunk.css",
+    "main.js": "/quicksell-assignment/static/js/main.2c7fe8ec.chunk.js",
+    "main.js.map": "/quicksell-assignment/static/js/main.2c7fe8ec.chunk.js.map",
+    "runtime-main.js": "/quicksell-assignment/static/js/runtime-main.658c06d4.js",
+    "runtime-main.js.map": "/quicksell-assignment/static/js/runtime-main.658c06d4.js.map",
+    "static/js/2.c09af30d.chunk.js": "/quicksell-assignment/static/js/2.c09af30d.chunk.js",
+    "static/js/2.c09af30d.chunk.js.map": "/quicksell-assignment/static/js/2.c09af30d.chunk.js.map",
+    "index.html": "/quicksell-assignment/index.html",
+    "static/css/main.0929a311.chunk.css.map": "/quicksell-assignment/static/css/main.0929a311.chunk.css.map",
+    "static/js/2.c09af30d.chunk.js.LICENSE.txt": "/quicksell-assignment/static/js/2.c09af30d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.658c06d4.js",
+    "static/js/2.c09af30d.chunk.js",
+    "static/css/main.0929a311.chunk.css",
+    "static/js/main.2c7fe8ec.chunk.js"
+  ]
+}
